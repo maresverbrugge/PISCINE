@@ -1,5 +1,6 @@
 # PISCINE
-Codam piscine September 2020
+Codam Piscine September 2020
 
+![](piscine.jpeg)
 
-![alt text](https://github.com/maresverbrugge/PISCINE/blob/master/piscine.jpg?raw=true)
+had the best time.
